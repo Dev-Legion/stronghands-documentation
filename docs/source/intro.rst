@@ -5,6 +5,8 @@
 1
 
 Introduction
+============
+
 What is Stronghands?
 Stronghands is a community-driven organization built to solve what might be called
 the "liquidity problem." One could define this problem as the inability of
