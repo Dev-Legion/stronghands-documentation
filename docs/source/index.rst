@@ -32,3 +32,4 @@ A collection of tutorials on various topics such as staking, farming, liquidity 
     Home <self>
     intro
     tutorials/index
+    developers/index
