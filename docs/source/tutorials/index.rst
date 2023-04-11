@@ -3,5 +3,5 @@ Tutorials
 
 .. toctree::
 
-    Overview
-    How to Get Started on Stronghands
+    Overview <overview.rst>
+    How to Get Started on Stronghands <gettingstarted/index>
