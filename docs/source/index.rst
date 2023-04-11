@@ -30,4 +30,4 @@ A collection of tutorials on various topics such as staking, farming, liquidity 
 .. toctree::
 
    Home <self>
-   introduction
+   Introduction
