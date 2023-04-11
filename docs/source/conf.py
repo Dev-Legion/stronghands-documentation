@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Stronghands Dex'
 copyright = '2023, Stronghands'
 author = 'Blockleader'
 
