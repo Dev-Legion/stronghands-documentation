@@ -26,3 +26,8 @@ Tutorials
 ---------
 
 A collection of tutorials on various topics such as staking, farming, liquidity provision, etc.
+
+.. toctree::
+
+   Home <self>
+   intro
