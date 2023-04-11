@@ -1,10 +1,4 @@
-.. sidebar:: Position
-:title:
-:class: custom-sidebar
-
-1
-
-Introduction
+Intro
 ============
 
 What is Stronghands?
