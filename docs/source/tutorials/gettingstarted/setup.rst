@@ -65,4 +65,30 @@ When you go to `sushi.com <https://www.sushi.com/>`_, enter the app and click *C
        :alt: backup
        :width: 70%
 
-18. Click *Add Token*
+18. Click *Add Token* and you should now see the $SUSHI token in your wallet!
+
+.. image:: ../../images/suyw8.png
+    :alt: backup
+    :width: 70%
+
+Connecting Your Wallet to Sushi
+Step 1.
+
+Go to `stronghands.com <https://www.stronghands.com/>`_
+
+Step 2.
+
+Click Connect to a wallet in the top right corner.
+
+.. image:: ../../images/suyw9.png
+:alt: backup
+:width: 70%
+
+Step 3.
+
+Select MetaMask then click *Connect* in the MetaMask pop-up.
+
+Step 4.
+You will now see your wallet address in the top right corner!
+
+You will need to approve Stronghand's access for each individual token you use on the platform. For example, if you want to buy $ISHND tokens with $USDC, you will need to approve Stronghand's access to the USDC token by paying a small connection fee. As we mentioned in the beginning of this tutorial, this fee, along with other fees on BSC, will need to be paid in Binance Coin (BNB). So, in order to access the StronghandSwap platform, you will need BNB in your wallet to pay the fees. If you do not have any Binance Coin, you will need to purchase some from a centralized exchange that services your region.
