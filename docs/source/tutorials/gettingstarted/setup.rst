@@ -7,22 +7,19 @@ Setting Up Your Wallet
 
 When you go to `sushi.com <https://www.sushi.com/>`_, enter the app and click *Connect Wallet*; you will see a list of wallet options to choose from. For some beginners, this list can be daunting. To help out new users to our platform, we will show you how to set up a MetaMask wallet extension on your desktop!
 
-Setting up MetaMask 101
------------------------
-
 1. Head over to `https://metamask.io <https://metamask.io>`_.
 
 2. Download and install the Metamask version compatible with your browser.
 
 3. After it's finished downloading, click *Get Started*.
 
-   .. image:: /img/tutimg/suyw/suyw1.png
+   .. image:: /img/suyw1.png
       :alt: welcome
       :width: 70%
 
 4. Click *Create a Wallet*.
 
-   .. image:: /img/tutimg/suyw/suyw2.png
+   .. image:: /img/suyw2.png
       :alt: backup
       :width: 70%
 
@@ -32,13 +29,13 @@ Setting up MetaMask 101
 
 7. You will be given your backup phrase, also known as your "private key," which is made up of 12 words. It is good practice to write this down somewhere safe and never show or tell anyone these words. Anyone who has this phrase can access your assets and do as they please with them, so don't ever give it to anyone!
 
-   .. image:: /img/tutimg/suyw/suyw3.png
+   .. image:: /img/suyw3.png
       :alt: backup
       :width: 70%
 
 8. Congratulations, your wallet has successfully been created! Your account number or wallet address will look something like this: ``0x48F7D383399700ac1302aFF938cD46d138008676`` or as seen in the photo below: ``0x48F7...8676``. If you click on this number (abbreviated below "Account 1"), your computer will automatically copy the address.
 
-   .. image:: /img/tutimg/suyw/suyw4.png
+   .. image:: /img/suyw4.png
       :alt: backup
       :width: 70%
 
@@ -52,7 +49,7 @@ Setting up MetaMask 101
 
 13. Copy the contract address.
 
-    .. image:: /img/tutimg/suyw/suyw5.png
+    .. image:: /img/suyw5.png
        :alt: backup
        :width: 70%
 
@@ -60,7 +57,7 @@ Setting up MetaMask 101
 
 15. Click *Add Token*.
 
-    .. image:: /img/tutimg/suyw/suyw6.png
+    .. image:: /img/suyw6.png
        :alt: backup
        :width: 70%
 
@@ -68,7 +65,7 @@ Setting up MetaMask 101
 
 17. Paste the $SUSHI token contract address in and click *Next*.
 
-    .. image:: /img/tutimg/suyw/suyw7.png
+    .. image:: /img/suyw7.png
        :alt: backup
        :width: 70%
 
