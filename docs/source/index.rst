@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
+Welcome to Stronghands DEX documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Stronghands Docs
+===============
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. _intro:
 
-.. note::
+What is Stronghands
+------------------
 
-   This project is under active development.
+Learn about the core concepts of the Stronghands Protocol. Swaps, Pools, Lending and more.
 
-Contents
---------
 
-.. toctree::
+.. _Developers/Overview:
 
-   usage
-   api
+Developers
+----------
+
+Learn about the architecture of the Stronghands smart contracts and how to build on top of the protocol.
+
+
+.. _Tutorials/Overview:
+
+Tutorials
+---------
+
+A collection of tutorials on various topics such as staking, farming, liquidity provision, etc.
