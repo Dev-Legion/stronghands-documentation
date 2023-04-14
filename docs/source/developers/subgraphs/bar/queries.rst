@@ -2,9 +2,9 @@ Queries
 =========
 
 This page provides some sample query examples to help get you started
-with the SushiSwap SHNDBar subgraph.
+with the Stronghands SHNDBar subgraph.
 
-You can test any of the queries, or write your own, on the `SushiSwap
+You can test any of the queries, or write your own, on the `Stronghands
 SHNDBar
 subgraph <https://thegraph.com/explorer/subgraph?id=9PNQKCFNijybeAXkfSYrrQQ9gtRhLJB8VgmBSov3RkDQ&view=Overview>`__.
 
