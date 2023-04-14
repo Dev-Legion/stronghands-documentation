@@ -9,7 +9,7 @@ Stronghands Docs
 What is Stronghands
 ------------------
 
-Learn about the core concepts of the Stronghands Protocol. Swaps, Pools, Lending and more.
+Learn about the core concepts of the Stronghands Protocol. Swaps, Pools, Staking and more.
 
 
 .. _Developers/Overview:

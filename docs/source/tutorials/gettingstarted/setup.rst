@@ -1,7 +1,7 @@
 Setting Up Your Wallet
 ======================
 
-When you go to `sushi.com <https://www.sushi.com/>`_, enter the app and click *Connect Wallet*; you will see a list of wallet options to choose from. For some beginners, this list can be daunting. To help out new users to our platform, we will show you how to set up a MetaMask wallet extension on your desktop!
+When you go to `Stronghands DEX <https://www.stronghands.io/>`_, enter the app and click *Connect Wallet*; you will see a list of wallet options to choose from. For some beginners, this list can be daunting. To help out new users to our platform, we will show you how to set up a MetaMask wallet extension on your desktop!
 
 1. Head over to `https://metamask.io <https://metamask.io>`_.
 
@@ -39,9 +39,9 @@ When you go to `sushi.com <https://www.sushi.com/>`_, enter the app and click *C
 
 10. In order for your tokens to display in your wallet, you need to add the token first. Let's start by adding $SUSHI!
 
-11. To add the $SUSHI token to your wallet, start by heading to: `https://etherscan.io/ <https://etherscan.io/>`_
+11. To add the $ISHND token to your wallet, start by heading to: `https://etherscan.io/ <https://etherscan.io/>`_
 
-12. Search *Sushi* in the search bar and click the top result.
+12. Search *Stronghands* in the search bar and click the top result.
 
 13. Copy the contract address.
 
@@ -59,22 +59,22 @@ When you go to `sushi.com <https://www.sushi.com/>`_, enter the app and click *C
 
 16. Click *Custom Token*.
 
-17. Paste the $SUSHI token contract address in and click *Next*.
+17. Paste the $ISHND token contract address in and click *Next*.
 
     .. image:: ../../images/suyw7.png
        :alt: backup
        :width: 70%
 
-18. Click *Add Token* and you should now see the $SUSHI token in your wallet!
+18. Click *Add Token* and you should now see the $ISHND token in your wallet!
 
 .. image:: ../../images/suyw8.png
     :alt: backup
     :width: 70%
 
-Connecting Your Wallet to Sushi
+Connecting Your Wallet to Stronghands
 Step 1.
 
-Go to `stronghands.com <https://www.stronghands.com/>`_
+Go to `stronghands.io <https://www.stronghands.io/>`_
 
 Step 2.
 
@@ -91,4 +91,4 @@ Select MetaMask then click *Connect* in the MetaMask pop-up.
 Step 4.
 You will now see your wallet address in the top right corner!
 
-You will need to approve Stronghand's access for each individual token you use on the platform. For example, if you want to buy $ISHND tokens with $USDC, you will need to approve Stronghand's access to the USDC token by paying a small connection fee. As we mentioned in the beginning of this tutorial, this fee, along with other fees on BSC, will need to be paid in Binance Coin (BNB). So, in order to access the StronghandSwap platform, you will need BNB in your wallet to pay the fees. If you do not have any Binance Coin, you will need to purchase some from a centralized exchange that services your region.
+You will need to approve Stronghands access for each individual token you use on the platform. For example, if you want to buy $ISHND tokens with $USDC, you will need to approve Stronghand's access to the USDC token by paying a small connection fee. As we mentioned in the beginning of this tutorial, this fee, along with other fees on BSC, will need to be paid in Binance Coin (BNB). So, in order to access the StronghandSwap platform, you will need BNB in your wallet to pay the fees. If you do not have any Binance Coin, you will need to purchase some from a centralized exchange that services your region.
